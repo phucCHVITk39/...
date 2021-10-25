@@ -1,0 +1,42 @@
+.block{
+	position: absolute;
+	display: inline-block;
+	margin:0;
+	width: 22%;
+	height: 15%;
+	border-style: solid;
+	background-color: rgb(9,247,157);
+	border-color: lightblue;
+	font-family: 'Gochi Hand', cursive;
+}
+	#boxy{
+	position: absolute;
+}
+p{
+	position: absolute;
+	margin: 0%;
+	height: 15%;
+	width: 15%;
+}
+p>img{
+	margin-top: 15%;
+}
+button{
+	font-size: 100%;
+}
+body{
+	
+	margin: 0;
+}
+html{
+	background: url("https://github.com/quangvkl10x/tothichcau/blob/master/b.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+footer{
+	bottom: 0;
+	left:0;
+	position: absolute;
+	text-align: center;
+}
